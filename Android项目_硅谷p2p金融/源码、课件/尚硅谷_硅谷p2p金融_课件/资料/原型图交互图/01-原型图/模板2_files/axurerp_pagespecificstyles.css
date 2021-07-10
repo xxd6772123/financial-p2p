@@ -1,0 +1,1764 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../模板2_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:3px;
+    top:54px;
+    width:320px;
+    height:471px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:477px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:228px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../模板2_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:4px;
+    top:54px;
+    width:321px;
+    height:23px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:321px;
+    height:23px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:317px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../模板2_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:3px;
+    top:74px;
+    width:321px;
+    height:51px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:327px;
+    height:57px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:317px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../模板2_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:7px;
+    top:83px;
+    width:32px;
+    height:32px;
+}
+
+#u6_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../模板2_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:279px;
+    top:81px;
+    width:27px;
+    height:34px;
+}
+
+#u8_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:27px;
+    height:34px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:23px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../模板2_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:0px;
+    top:471px;
+    width:326px;
+    height:56px;
+}
+
+#u10_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:326px;
+    height:56px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:322px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../模板2_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:4px;
+    top:18px;
+    width:318px;
+    height:26px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:324px;
+    height:32px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:314px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../模板2_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:22px;
+    top:158px;
+    width:277px;
+    height:255px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:283px;
+    height:261px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:120px;
+    width:273px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../模板2_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:30px;
+    top:164px;
+    width:259px;
+    height:117px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:265px;
+    height:123px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:50px;
+    width:255px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../模板2_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:133px;
+    top:127px;
+    width:47px;
+    height:18px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:53px;
+    height:24px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:43px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../模板2_files/u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:30px;
+    top:249px;
+    width:259px;
+    height:32px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:265px;
+    height:38px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:255px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../模板2_files/u22_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:244px;
+    top:309px;
+    width:45px;
+    height:35px;
+}
+
+#u22_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:51px;
+    height:41px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:41px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_line {
+    background-image: url('../模板2_files/u24_line.png');
+}
+
+.u24_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:277px;
+    height:3px;
+}
+
+.u24 {
+    position:absolute;
+    left:22px;
+    top:351px;
+    width:277px;
+    height:10px;
+    
+}
+
+.u25 {
+    position:absolute;
+    left:32px;
+    top:310px;
+    width:193px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_line {
+    background-image: url('../模板2_files/u26_line.png');
+}
+
+.u26_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:277px;
+    height:3px;
+}
+
+.u26 {
+    position:absolute;
+    left:23px;
+    top:292px;
+    width:277px;
+    height:10px;
+    
+}
+
+.u27_normal {
+    background-image: url('../模板2_files/u22_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:244px;
+    top:365px;
+    width:45px;
+    height:35px;
+}
+
+#u27_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:51px;
+    height:41px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:41px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:32px;
+    top:366px;
+    width:193px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../模板2_files/u30_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:383px;
+    top:50px;
+    width:320px;
+    height:471px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:477px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:228px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../模板2_files/u2_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:384px;
+    top:50px;
+    width:321px;
+    height:23px;
+}
+
+#u32_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:321px;
+    height:23px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:317px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../模板2_files/u4_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:383px;
+    top:70px;
+    width:321px;
+    height:51px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:327px;
+    height:57px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:317px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../模板2_files/u6_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:387px;
+    top:79px;
+    width:32px;
+    height:32px;
+}
+
+#u36_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../模板2_files/u8_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:659px;
+    top:77px;
+    width:27px;
+    height:34px;
+}
+
+#u38_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:27px;
+    height:34px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:23px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../模板2_files/u12_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:384px;
+    top:14px;
+    width:318px;
+    height:26px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:324px;
+    height:32px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:314px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:393px;
+    top:131px;
+    width:256px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_normal {
+    background-image: url('../模板2_files/u43_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:400px;
+    top:173px;
+    width:286px;
+    height:128px;
+}
+
+#u43_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:292px;
+    height:134px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:56px;
+    width:282px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45 {
+    position:absolute;
+    left:404px;
+    top:154px;
+    width:130px;
+    height:11px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:400px;
+    top:319px;
+    width:286px;
+    height:80px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../模板2_files/u47_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:400px;
+    top:399px;
+    width:225px;
+    height:103px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:231px;
+    height:109px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:44px;
+    width:221px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_normal {
+    background-image: url('../模板2_files/u0_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:747px;
+    top:46px;
+    width:320px;
+    height:471px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:477px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:228px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_normal {
+    background-image: url('../模板2_files/u2_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:748px;
+    top:46px;
+    width:321px;
+    height:23px;
+}
+
+#u51_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:321px;
+    height:23px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:317px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../模板2_files/u4_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:747px;
+    top:66px;
+    width:321px;
+    height:51px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:327px;
+    height:57px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:317px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_normal {
+    background-image: url('../模板2_files/u6_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:751px;
+    top:76px;
+    width:32px;
+    height:32px;
+}
+
+#u55_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../模板2_files/u8_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:1023px;
+    top:74px;
+    width:27px;
+    height:34px;
+}
+
+#u57_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:27px;
+    height:34px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:23px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_normal {
+    background-image: url('../模板2_files/u10_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:744px;
+    top:464px;
+    width:326px;
+    height:56px;
+}
+
+#u59_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:326px;
+    height:56px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:322px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../模板2_files/u12_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:748px;
+    top:10px;
+    width:318px;
+    height:26px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:324px;
+    height:32px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:314px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_normal {
+    background-image: url('../模板2_files/u14_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:766px;
+    top:150px;
+    width:277px;
+    height:255px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:283px;
+    height:261px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:120px;
+    width:273px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_normal {
+    background-image: url('../模板2_files/u16_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:774px;
+    top:156px;
+    width:259px;
+    height:117px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:265px;
+    height:123px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:50px;
+    width:255px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../模板2_files/u18_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:877px;
+    top:120px;
+    width:47px;
+    height:18px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:53px;
+    height:24px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:43px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../模板2_files/u20_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:774px;
+    top:242px;
+    width:259px;
+    height:32px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:265px;
+    height:38px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:255px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../模板2_files/u22_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:988px;
+    top:302px;
+    width:45px;
+    height:35px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:51px;
+    height:41px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:41px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73_line {
+    background-image: url('../模板2_files/u73_line.png');
+}
+
+.u73_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:277px;
+    height:3px;
+}
+
+.u73 {
+    position:absolute;
+    left:766px;
+    top:344px;
+    width:277px;
+    height:10px;
+    
+}
+
+.u74 {
+    position:absolute;
+    left:776px;
+    top:302px;
+    width:193px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75_line {
+    background-image: url('../模板2_files/u75_line.png');
+}
+
+.u75_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:277px;
+    height:3px;
+}
+
+.u75 {
+    position:absolute;
+    left:767px;
+    top:284px;
+    width:277px;
+    height:10px;
+    
+}
+
+.u76_normal {
+    background-image: url('../模板2_files/u22_normal.png');
+}
+
+.u76_container {
+    position:absolute;
+    left:988px;
+    top:358px;
+    width:45px;
+    height:35px;
+}
+
+#u76_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:51px;
+    height:41px;
+}
+
+.u77 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:41px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78 {
+    position:absolute;
+    left:776px;
+    top:358px;
+    width:193px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79_normal {
+    background-image: url('../模板2_files/u79_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:747px;
+    top:46px;
+    width:320px;
+    height:468px;
+}
+
+#u79_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:474px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:226px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81_normal {
+    background-image: url('../模板2_files/u81_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:803px;
+    top:175px;
+    width:230px;
+    height:99px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:236px;
+    height:105px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:42px;
+    width:226px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83_normal {
+    background-image: url('../模板2_files/u83_normal.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:803px;
+    top:175px;
+    width:230px;
+    height:54px;
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:236px;
+    height:60px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:19px;
+    width:226px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85 {
+    position:absolute;
+    left:815px;
+    top:191px;
+    width:77px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86_normal {
+    background-image: url('../模板2_files/u86_normal.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:803px;
+    top:229px;
+    width:230px;
+    height:45px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:236px;
+    height:51px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:226px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88_normal {
+    background-image: url('../模板2_files/u88_normal.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:160px;
+    top:268px;
+    width:618px;
+    height:45px;
+}
+
+#u88_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:618px;
+    height:45px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:614px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../模板2_files/u90_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:279px;
+    top:291px;
+    width:30px;
+    height:30px;
+}
+
+#u90_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92 {
+    position:absolute;
+    left:287px;
+    top:297px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93_normal {
+    background-image: url('../模板2_files/u93_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:6px;
+    top:559px;
+    width:320px;
+    height:40px;
+}
+
+#u93_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:46px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:316px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95_normal {
+    background-image: url('../模板2_files/u95_normal.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:6px;
+    top:599px;
+    width:320px;
+    height:96px;
+}
+
+#u95_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:102px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97_normal {
+    background-image: url('../模板2_files/u97_normal.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:15px;
+    top:609px;
+    width:303px;
+    height:56px;
+}
+
+#u97_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:309px;
+    height:62px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:299px;
+    height:156px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../模板2_files/u86_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:803px;
+    top:274px;
+    width:230px;
+    height:45px;
+}
+
+#u99_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:236px;
+    height:51px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:226px;
+    height:21px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101_normal {
+    background-image: url('../模板2_files/u101_normal.png');
+}
+
+.u101_container {
+    position:absolute;
+    left:202px;
+    top:364px;
+    width:181px;
+    height:37px;
+}
+
+#u101_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:181px;
+    height:37px;
+}
+
+.u102 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:177px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

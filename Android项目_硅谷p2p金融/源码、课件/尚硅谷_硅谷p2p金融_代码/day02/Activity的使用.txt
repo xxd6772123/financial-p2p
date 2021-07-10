@@ -1,0 +1,31 @@
+Activity的使用：
+1.概述：提供能够②与用户交互的①界面
+2.组件的特点：①继承父类或实现接口②需要注册③对象，是系统创建的④生命周期方法的自动调用
+3.如何声明一个Activity.
+4.如何启动一个Activity.①startActivity(intent) 
+                      ②Activity1：startActivityForResult(int requestCode,Intent intent)
+		        Activity2：setResult(int resultCode,Intent intent);finish();
+			Activity1: onActivityResult(int requestCode,int resultCode,Intent intent)
+5.Intent的使用：不是组件！意图，提供不同组件通信的信使。
+ ①要去哪？显式意图Intent(obj,Class clazz)，隐式意图Intent(String action) 
+ ②能带数据吗？可以！putExtra(String key,Xxx xxx)---getXxxExtra(String key)
+                     setData(Uri uri) ---getData(); Uri uri = Uri.parse("tel:" + number); -->url (http:)
+									("content:" + )
+
+6.任务栈的结构：先进后出
+7.LaunchMode:①standard ②singleTop ③singleTask ④singleInstance
+8.Activity的生命周期。
+ ①4种状态：运行状态，暂停状态，停止状态，死亡状态。
+    不同状态之间，切换时，哪些生命周期方法调用
+ ②7个生命周期方法。
+   onCreate()--- onDestroy():对象是否存在。（在对象整个生命周期过程中，只调用一次）
+   onStart()--- onStop():当前activity是否可见
+   onResume() --- onPause()：当前的activity是否可操作
+
+ 面试考查：①Activity1-->Activity2.
+           ②。。。
+9.不同的生命周期方法中，常做哪些操作。
+  onCreate():setContentView(),视图的初始化,绑定监听
+  onDestroy():正常情况下，销毁一个activity对象之前调用。
+  onPause():当activity结束运行状态时，临时数据的保存。（不适合执行数据量较大的保存操作：数据库）
+  onSaveInstanceState()/onStop():用于保存数据（执行时间较长）

@@ -1,0 +1,34 @@
+硅谷p2p金融项目(课堂实录)简介：
+2015年全国P2P网贷成交额突破万亿，达到11805.65亿。截至2016年7月底，中国的网络借贷平台已经达到2281家，从而带动了p2p金融及理财项目的研发。
+
+硅谷p2p金融项目，结合现有第三方应用市场上主流p2p金融理财产品特点，集成了新的技术与框架。该项目内容包含p2p金融理财业务流程，数据加密、解密，客户端异常信息上传，用户登录注册，数据的图表展示，第三方支付，手势密码，分享功能等。
+
+项目特点：
+尚硅谷p2p金融项目体现了客户端、服务器端、数据库的交互，是难得的前后台都提供且可操作性强的项目。在项目进行中，宋老师兼顾了android程序员对后台不熟悉的“劣势”，对此进行了加强。
+
+通过此项目需要大家掌握：
+1.熟悉金融业务相关知识及业务流程
+2.掌握数据加密解密相关操作
+3.掌握Activity、Fragment、Adapter等结构代码的抽取
+4.掌握支付和提现业务的实现流程
+5.熟悉使用更多框架
+AsyncHttpClient,ButterKnife,Picasso,ViewPagerIndicator,Banner,MpAndroidChart,GestureLock,集成支付宝sdk,
+shareSDK等
+6.掌握更多的自定义控件
+
+
+**********************关于项目的说明**************************
+
+1.如果《硅谷P2P金融.mmap》文件打不开，可以使用
+“MindFix_解决打开文件异常的工具.exe”工具browse，
+选择《硅谷P2P金融.mmap》文件fix一下即可。
+
+
+2.学生可以使用android客户端连本地的服务器。那就需要安装并配置Tomcat(见资料文档有配置说明),
+安装mysql数据库及客户端(见资料文档)。同时，要求将P2PInvest的javaweb功能部署到JavaEE版的
+Eclipse中。并且在jdbc.properties中指明自己访问mysql的用户名和密码。
+
+当然，可访问尚硅谷官方服务器后台。这样就不需要安装Tomcat服务器和mysql数据库以及客户端
+访问地址：（修改客户端AppNetConfig类即可）
+public static final String IPADDRESS = "182.92.5.3";
+public static final String BASE_URL = "http://" + IPADDRESS + ":8081/P2PInvest/";

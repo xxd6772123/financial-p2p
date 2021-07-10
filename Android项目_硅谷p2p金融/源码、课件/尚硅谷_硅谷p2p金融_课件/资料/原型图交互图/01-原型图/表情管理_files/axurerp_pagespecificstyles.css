@@ -1,0 +1,2761 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../表情管理_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:393px;
+    top:132px;
+    width:321px;
+    height:430px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:327px;
+    height:436px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:207px;
+    width:317px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../表情管理_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:393px;
+    top:92px;
+    width:321px;
+    height:40px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:327px;
+    height:46px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:317px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:521px;
+    top:105px;
+    width:75px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../表情管理_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:408px;
+    top:152px;
+    width:290px;
+    height:80px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:296px;
+    height:86px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:286px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_line {
+    background-image: url('../表情管理_files/u7_line.png');
+}
+
+.u7_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:290px;
+    height:3px;
+}
+
+.u7 {
+    position:absolute;
+    left:408px;
+    top:187px;
+    width:290px;
+    height:10px;
+    
+}
+
+.u8 {
+    position:absolute;
+    left:425px;
+    top:167px;
+    width:79px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../表情管理_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:653px;
+    top:158px;
+    width:30px;
+    height:30px;
+}
+
+#u9_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:424px;
+    top:205px;
+    width:122px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../表情管理_files/u9_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:653px;
+    top:197px;
+    width:30px;
+    height:30px;
+}
+
+#u12_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../表情管理_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:393px;
+    top:72px;
+    width:321px;
+    height:20px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:327px;
+    height:26px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:317px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../表情管理_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:676px;
+    top:77px;
+    width:25px;
+    height:10px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:31px;
+    height:16px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../表情管理_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:677px;
+    top:79px;
+    width:14px;
+    height:6px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:20px;
+    height:12px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:-5px;
+    width:10px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../表情管理_files/u20_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:701px;
+    top:80px;
+    width:3px;
+    height:4px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:9px;
+    height:10px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22_normal {
+    background-image: url('../表情管理_files/u22_normal.png');
+}
+
+.u22_container {
+    position:absolute;
+    left:404px;
+    top:97px;
+    width:30px;
+    height:30px;
+}
+
+#u22_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+.u23 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../表情管理_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:18px;
+    top:77px;
+    width:320px;
+    height:480px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:486px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:232px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../表情管理_files/u26_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:18px;
+    top:77px;
+    width:320px;
+    height:20px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:26px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../表情管理_files/u16_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:300px;
+    top:82px;
+    width:25px;
+    height:10px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:31px;
+    height:16px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../表情管理_files/u18_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:301px;
+    top:84px;
+    width:14px;
+    height:6px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:20px;
+    height:12px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:-5px;
+    width:10px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_normal {
+    background-image: url('../表情管理_files/u20_normal.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:325px;
+    top:85px;
+    width:3px;
+    height:4px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:9px;
+    height:10px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34_normal {
+    background-image: url('../表情管理_files/u34_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:18px;
+    top:97px;
+    width:320px;
+    height:50px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:56px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:316px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../表情管理_files/u36_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:26px;
+    top:89px;
+    width:2px;
+    height:3px;
+}
+
+#u36_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:8px;
+    height:9px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38_normal {
+    background-image: url('../表情管理_files/u38_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:30px;
+    top:87px;
+    width:2px;
+    height:5px;
+}
+
+#u38_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:8px;
+    height:11px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../表情管理_files/u40_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:34px;
+    top:85px;
+    width:2px;
+    height:7px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:8px;
+    height:13px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_normal {
+    background-image: url('../表情管理_files/u42_normal.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:38px;
+    top:84px;
+    width:2px;
+    height:8px;
+}
+
+#u42_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:8px;
+    height:14px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../表情管理_files/u44_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:42px;
+    top:82px;
+    width:2px;
+    height:10px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:8px;
+    height:16px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46 {
+    position:absolute;
+    left:50px;
+    top:79px;
+    width:81px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../表情管理_files/u22_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:26px;
+    top:106px;
+    width:30px;
+    height:30px;
+}
+
+#u47_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_normal {
+    background-image: url('../表情管理_files/u49_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:32px;
+    top:185px;
+    width:291px;
+    height:34px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:297px;
+    height:40px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:287px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51 {
+    position:absolute;
+    left:44px;
+    top:197px;
+    width:75px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../表情管理_files/u52_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:291px;
+    top:189px;
+    width:26px;
+    height:26px;
+}
+
+#u52_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:26px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../表情管理_files/u54_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:16px;
+    top:30px;
+    width:318px;
+    height:26px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:324px;
+    height:32px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:314px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_normal {
+    background-image: url('../表情管理_files/u56_normal.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:32px;
+    top:426px;
+    width:291px;
+    height:66px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:297px;
+    height:72px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:25px;
+    width:287px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58_line {
+    background-image: url('../表情管理_files/u58_line.png');
+}
+
+.u58_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:290px;
+    height:3px;
+}
+
+.u58 {
+    position:absolute;
+    left:33px;
+    top:455px;
+    width:290px;
+    height:10px;
+    
+}
+
+.u59_normal {
+    background-image: url('../表情管理_files/u59_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:33px;
+    top:253px;
+    width:291px;
+    height:135px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:297px;
+    height:141px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:60px;
+    width:287px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_line {
+    background-image: url('../表情管理_files/u61_line.png');
+}
+
+.u61_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:290px;
+    height:3px;
+}
+
+.u61 {
+    position:absolute;
+    left:33px;
+    top:283px;
+    width:290px;
+    height:10px;
+    
+}
+
+.u62 {
+    position:absolute;
+    left:49px;
+    top:299px;
+    width:70px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63 {
+    position:absolute;
+    left:49px;
+    top:264px;
+    width:57px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../表情管理_files/u52_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:292px;
+    top:256px;
+    width:26px;
+    height:26px;
+}
+
+#u64_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:26px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66_normal {
+    background-image: url('../表情管理_files/u52_normal.png');
+}
+
+.u66_container {
+    position:absolute;
+    left:292px;
+    top:292px;
+    width:26px;
+    height:26px;
+}
+
+#u66_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:26px;
+}
+
+.u67 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u68 {
+    position:absolute;
+    left:36px;
+    top:165px;
+    width:63px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69 {
+    position:absolute;
+    left:36px;
+    top:234px;
+    width:63px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70 {
+    position:absolute;
+    left:250px;
+    top:298px;
+    width:43px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_line {
+    background-image: url('../表情管理_files/u71_line.png');
+}
+
+.u71_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:290px;
+    height:3px;
+}
+
+.u71 {
+    position:absolute;
+    left:34px;
+    top:316px;
+    width:290px;
+    height:10px;
+    
+}
+
+.u72_line {
+    background-image: url('../表情管理_files/u72_line.png');
+}
+
+.u72_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:290px;
+    height:3px;
+}
+
+.u72 {
+    position:absolute;
+    left:34px;
+    top:349px;
+    width:290px;
+    height:10px;
+    
+}
+
+.u73 {
+    position:absolute;
+    left:49px;
+    top:332px;
+    width:57px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74_normal {
+    background-image: url('../表情管理_files/u52_normal.png');
+}
+
+.u74_container {
+    position:absolute;
+    left:292px;
+    top:325px;
+    width:26px;
+    height:26px;
+}
+
+#u74_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:26px;
+}
+
+.u75 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76 {
+    position:absolute;
+    left:49px;
+    top:366px;
+    width:121px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77_normal {
+    background-image: url('../表情管理_files/u77_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:256px;
+    top:361px;
+    width:54px;
+    height:21px;
+}
+
+#u77_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:60px;
+    height:27px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79_normal {
+    background-image: url('../表情管理_files/u79_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:291px;
+    top:362px;
+    width:18px;
+    height:19px;
+}
+
+#u79_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:24px;
+    height:25px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:14px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81 {
+    position:absolute;
+    left:35px;
+    top:407px;
+    width:37px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82_normal {
+    background-image: url('../表情管理_files/u82_normal.png');
+}
+
+.u82_container {
+    position:absolute;
+    left:766px;
+    top:92px;
+    width:320px;
+    height:481px;
+}
+
+#u82_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:487px;
+}
+
+.u83 {
+    position:absolute;
+    left:2px;
+    top:232px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84_normal {
+    background-image: url('../表情管理_files/u84_normal.png');
+}
+
+.u84_container {
+    position:absolute;
+    left:766px;
+    top:92px;
+    width:320px;
+    height:42px;
+}
+
+#u84_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:48px;
+}
+
+.u85 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86 {
+    position:absolute;
+    left:889px;
+    top:106px;
+    width:73px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87_normal {
+    background-image: url('../表情管理_files/u87_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:766px;
+    top:134px;
+    width:320px;
+    height:57px;
+}
+
+#u87_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:63px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../表情管理_files/u89_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:782px;
+    top:144px;
+    width:42px;
+    height:36px;
+}
+
+#u89_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:48px;
+    height:42px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:38px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91 {
+    position:absolute;
+    left:840px;
+    top:145px;
+    width:64px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92 {
+    position:absolute;
+    left:839px;
+    top:161px;
+    width:157px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93_normal {
+    background-image: url('../表情管理_files/u87_normal.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:766px;
+    top:191px;
+    width:320px;
+    height:57px;
+}
+
+#u93_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:63px;
+}
+
+.u94 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95_normal {
+    background-image: url('../表情管理_files/u89_normal.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:782px;
+    top:201px;
+    width:42px;
+    height:36px;
+}
+
+#u95_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:48px;
+    height:42px;
+}
+
+.u96 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:38px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97 {
+    position:absolute;
+    left:840px;
+    top:202px;
+    width:64px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98 {
+    position:absolute;
+    left:839px;
+    top:218px;
+    width:157px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99_normal {
+    background-image: url('../表情管理_files/u14_normal.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:766px;
+    top:72px;
+    width:321px;
+    height:20px;
+}
+
+#u99_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:327px;
+    height:26px;
+}
+
+.u100 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:317px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101_normal {
+    background-image: url('../表情管理_files/u16_normal.png');
+}
+
+.u101_container {
+    position:absolute;
+    left:1049px;
+    top:77px;
+    width:25px;
+    height:10px;
+}
+
+#u101_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:31px;
+    height:16px;
+}
+
+.u102 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103_normal {
+    background-image: url('../表情管理_files/u18_normal.png');
+}
+
+.u103_container {
+    position:absolute;
+    left:1050px;
+    top:79px;
+    width:14px;
+    height:6px;
+}
+
+#u103_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:20px;
+    height:12px;
+}
+
+.u104 {
+    position:absolute;
+    left:2px;
+    top:-5px;
+    width:10px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105_normal {
+    background-image: url('../表情管理_files/u20_normal.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:1074px;
+    top:80px;
+    width:3px;
+    height:4px;
+}
+
+#u105_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:9px;
+    height:10px;
+}
+
+.u106 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107_normal {
+    background-image: url('../表情管理_files/u22_normal.png');
+}
+
+.u107_container {
+    position:absolute;
+    left:777px;
+    top:97px;
+    width:30px;
+    height:30px;
+}
+
+#u107_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+.u108 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109_normal {
+    background-image: url('../表情管理_files/u82_normal.png');
+}
+
+.u109_container {
+    position:absolute;
+    left:1138px;
+    top:92px;
+    width:320px;
+    height:481px;
+}
+
+#u109_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:487px;
+}
+
+.u110 {
+    position:absolute;
+    left:2px;
+    top:232px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111_normal {
+    background-image: url('../表情管理_files/u84_normal.png');
+}
+
+.u111_container {
+    position:absolute;
+    left:1138px;
+    top:92px;
+    width:320px;
+    height:42px;
+}
+
+#u111_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:48px;
+}
+
+.u112 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113 {
+    position:absolute;
+    left:1266px;
+    top:105px;
+    width:73px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114_normal {
+    background-image: url('../表情管理_files/u87_normal.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:1138px;
+    top:134px;
+    width:320px;
+    height:57px;
+}
+
+#u114_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:63px;
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116_normal {
+    background-image: url('../表情管理_files/u89_normal.png');
+}
+
+.u116_container {
+    position:absolute;
+    left:1157px;
+    top:144px;
+    width:42px;
+    height:36px;
+}
+
+#u116_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:48px;
+    height:42px;
+}
+
+.u117 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:38px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118 {
+    position:absolute;
+    left:1215px;
+    top:145px;
+    width:64px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119 {
+    position:absolute;
+    left:1214px;
+    top:161px;
+    width:157px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u120_normal {
+    background-image: url('../表情管理_files/u87_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:1138px;
+    top:191px;
+    width:320px;
+    height:57px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:63px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../表情管理_files/u89_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:1157px;
+    top:201px;
+    width:42px;
+    height:36px;
+}
+
+#u122_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:48px;
+    height:42px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:38px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124 {
+    position:absolute;
+    left:1215px;
+    top:202px;
+    width:64px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125 {
+    position:absolute;
+    left:1214px;
+    top:218px;
+    width:157px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../表情管理_files/u14_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:1138px;
+    top:72px;
+    width:321px;
+    height:20px;
+}
+
+#u126_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:327px;
+    height:26px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:317px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128_normal {
+    background-image: url('../表情管理_files/u16_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:1421px;
+    top:77px;
+    width:25px;
+    height:10px;
+}
+
+#u128_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:31px;
+    height:16px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_normal {
+    background-image: url('../表情管理_files/u18_normal.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:1422px;
+    top:79px;
+    width:14px;
+    height:6px;
+}
+
+#u130_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:20px;
+    height:12px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:-5px;
+    width:10px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132_normal {
+    background-image: url('../表情管理_files/u20_normal.png');
+}
+
+.u132_container {
+    position:absolute;
+    left:1446px;
+    top:80px;
+    width:3px;
+    height:4px;
+}
+
+#u132_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:9px;
+    height:10px;
+}
+
+.u133 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134_normal {
+    background-image: url('../表情管理_files/u54_normal.png');
+}
+
+.u134_container {
+    position:absolute;
+    left:393px;
+    top:33px;
+    width:318px;
+    height:26px;
+}
+
+#u134_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:324px;
+    height:32px;
+}
+
+.u135 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:314px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136_normal {
+    background-image: url('../表情管理_files/u54_normal.png');
+}
+
+.u136_container {
+    position:absolute;
+    left:769px;
+    top:30px;
+    width:318px;
+    height:26px;
+}
+
+#u136_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:324px;
+    height:32px;
+}
+
+.u137 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:314px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138_normal {
+    background-image: url('../表情管理_files/u54_normal.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:1138px;
+    top:30px;
+    width:318px;
+    height:26px;
+}
+
+#u138_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:324px;
+    height:32px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:314px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../表情管理_files/u140_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:1006px;
+    top:150px;
+    width:62px;
+    height:25px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:68px;
+    height:31px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:58px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../表情管理_files/u22_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:1147px;
+    top:98px;
+    width:30px;
+    height:30px;
+}
+
+#u142_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144_normal {
+    background-image: url('../表情管理_files/u140_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:1006px;
+    top:207px;
+    width:62px;
+    height:25px;
+}
+
+#u144_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:68px;
+    height:31px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:58px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146_normal {
+    background-image: url('../表情管理_files/u146_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:1060px;
+    top:134px;
+    width:30px;
+    height:30px;
+}
+
+#u146_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:30px;
+    height:30px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u148 {
+    position:absolute;
+    left:1068px;
+    top:140px;
+    width:20px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u149 {
+    position:absolute;
+    left:766px;
+    top:609px;
+    width:236px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u150_normal {
+    background-image: url('../表情管理_files/u87_normal.png');
+}
+
+.u150_container {
+    position:absolute;
+    left:766px;
+    top:248px;
+    width:320px;
+    height:57px;
+}
+
+#u150_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:63px;
+}
+
+.u151 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u152_normal {
+    background-image: url('../表情管理_files/u89_normal.png');
+}
+
+.u152_container {
+    position:absolute;
+    left:782px;
+    top:258px;
+    width:42px;
+    height:36px;
+}
+
+#u152_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:48px;
+    height:42px;
+}
+
+.u153 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:38px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u154 {
+    position:absolute;
+    left:840px;
+    top:259px;
+    width:64px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u155 {
+    position:absolute;
+    left:839px;
+    top:275px;
+    width:157px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156_container {
+    position:absolute;
+    left:1023px;
+    top:260px;
+    width:32px;
+    height:32px;
+}
+
+#u156_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:32px;
+}
+
+.u157 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158 {
+    position:absolute;
+    left:766px;
+    top:583px;
+    width:184px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159_normal {
+    background-image: url('../表情管理_files/u159_normal.png');
+}
+
+.u159_container {
+    position:absolute;
+    left:1397px;
+    top:152px;
+    width:45px;
+    height:23px;
+}
+
+#u159_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:51px;
+    height:29px;
+}
+
+.u160 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:41px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161_normal {
+    background-image: url('../表情管理_files/u159_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:1397px;
+    top:209px;
+    width:45px;
+    height:23px;
+}
+
+#u161_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:51px;
+    height:29px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:41px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u163_normal {
+    background-image: url('../表情管理_files/u163_normal.png');
+}
+
+.u163_container {
+    position:absolute;
+    left:1043px;
+    top:100px;
+    width:28px;
+    height:28px;
+}
+
+#u163_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:28px;
+}
+
+.u164 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

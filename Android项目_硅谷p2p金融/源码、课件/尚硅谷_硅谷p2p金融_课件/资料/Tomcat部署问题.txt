@@ -1,0 +1,9 @@
+第一次新建的时候我下载的tomcat是6的，可以next的。但后来我新建的有问题，直接删掉了，
+再new时选6.0便不能next了，但如果选其它的版本next都可以点击。
+
+
+answer:
+1.退出 eclipse
+2.到[工程目录下]/.metadata/.plugins/org.eclipse.core.runtime
+3.把org.eclipse.wst.server.core.prefs和 org.eclipse.jst.server.tomcat.core.prefs这两个文件去掉
+4.重启eclipse

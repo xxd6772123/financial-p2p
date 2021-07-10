@@ -1,0 +1,6872 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../表情商店_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:123px;
+    top:50px;
+    width:320px;
+    height:481px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:487px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:232px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../表情商店_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:123px;
+    top:50px;
+    width:320px;
+    height:40px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:46px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:258px;
+    top:62px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../表情商店_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:136px;
+    top:115px;
+    width:36px;
+    height:36px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:42px;
+    height:42px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:32px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../表情商店_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:182px;
+    top:114px;
+    width:128px;
+    height:37px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:134px;
+    height:43px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:124px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:321px;
+    top:126px;
+    width:57px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../表情商店_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:123px;
+    top:489px;
+    width:320px;
+    height:42px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:48px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../表情商店_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:131px;
+    top:54px;
+    width:31px;
+    height:31px;
+}
+
+#u12_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:31px;
+    height:31px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:27px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../表情商店_files/u14_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:405px;
+    top:496px;
+    width:28px;
+    height:28px;
+}
+
+#u14_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:28px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_normal {
+    background-image: url('../表情商店_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:131px;
+    top:494px;
+    width:31px;
+    height:31px;
+}
+
+#u16_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:31px;
+    height:31px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:27px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../表情商店_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:175px;
+    top:494px;
+    width:180px;
+    height:32px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:38px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:234px;
+    top:502px;
+    width:81px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../表情商店_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:371px;
+    top:498px;
+    width:34px;
+    height:34px;
+}
+
+#u21_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:34px;
+    height:34px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:30px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../表情商店_files/u0_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:488px;
+    top:47px;
+    width:320px;
+    height:481px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:487px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:232px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../表情商店_files/u2_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:488px;
+    top:47px;
+    width:320px;
+    height:40px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:46px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:623px;
+    top:59px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../表情商店_files/u5_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:501px;
+    top:112px;
+    width:36px;
+    height:36px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:42px;
+    height:42px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:32px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30_normal {
+    background-image: url('../表情商店_files/u7_normal.png');
+}
+
+.u30_container {
+    position:absolute;
+    left:547px;
+    top:111px;
+    width:128px;
+    height:37px;
+}
+
+#u30_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:134px;
+    height:43px;
+}
+
+.u31 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:124px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:686px;
+    top:123px;
+    width:57px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_normal {
+    background-image: url('../表情商店_files/u33_normal.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:488px;
+    top:297px;
+    width:320px;
+    height:48px;
+}
+
+#u33_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:54px;
+}
+
+.u34 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../表情商店_files/u12_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:496px;
+    top:51px;
+    width:31px;
+    height:31px;
+}
+
+#u35_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:31px;
+    height:31px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:27px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_normal {
+    background-image: url('../表情商店_files/u14_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:771px;
+    top:305px;
+    width:28px;
+    height:28px;
+}
+
+#u37_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:28px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_normal {
+    background-image: url('../表情商店_files/u39_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:529px;
+    top:305px;
+    width:195px;
+    height:32px;
+}
+
+#u39_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:201px;
+    height:38px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../表情商店_files/u41_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:490px;
+    top:303px;
+    width:37px;
+    height:37px;
+}
+
+#u41_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:37px;
+    height:37px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:33px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_normal {
+    background-image: url('../表情商店_files/u43_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:734px;
+    top:306px;
+    width:28px;
+    height:28px;
+}
+
+#u43_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:28px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_normal {
+    background-image: url('../表情商店_files/u45_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:488px;
+    top:345px;
+    width:320px;
+    height:183px;
+}
+
+#u45_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:189px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:84px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_normal {
+    background-image: url('../表情商店_files/u47_normal.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:488px;
+    top:488px;
+    width:320px;
+    height:40px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:46px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:511px;
+    top:357px;
+    width:29px;
+    height:26px;
+}
+
+#u49_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u50 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:552px;
+    top:357px;
+    width:29px;
+    height:26px;
+}
+
+#u51_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u52 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:594px;
+    top:357px;
+    width:29px;
+    height:26px;
+}
+
+#u53_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u54 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:635px;
+    top:357px;
+    width:29px;
+    height:26px;
+}
+
+#u55_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u56 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:676px;
+    top:357px;
+    width:29px;
+    height:26px;
+}
+
+#u57_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:717px;
+    top:357px;
+    width:29px;
+    height:26px;
+}
+
+#u59_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u60 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:757px;
+    top:357px;
+    width:29px;
+    height:26px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:511px;
+    top:396px;
+    width:29px;
+    height:26px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:552px;
+    top:396px;
+    width:29px;
+    height:26px;
+}
+
+#u65_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:594px;
+    top:396px;
+    width:29px;
+    height:26px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:635px;
+    top:396px;
+    width:29px;
+    height:26px;
+}
+
+#u69_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:676px;
+    top:396px;
+    width:29px;
+    height:26px;
+}
+
+#u71_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u73_container {
+    position:absolute;
+    left:717px;
+    top:396px;
+    width:29px;
+    height:26px;
+}
+
+#u73_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u74 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:757px;
+    top:396px;
+    width:29px;
+    height:26px;
+}
+
+#u75_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:511px;
+    top:435px;
+    width:29px;
+    height:26px;
+}
+
+#u77_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:552px;
+    top:435px;
+    width:29px;
+    height:26px;
+}
+
+#u79_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u80 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:594px;
+    top:435px;
+    width:29px;
+    height:26px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:635px;
+    top:435px;
+    width:29px;
+    height:26px;
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u85_container {
+    position:absolute;
+    left:676px;
+    top:435px;
+    width:29px;
+    height:26px;
+}
+
+#u85_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u86 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:717px;
+    top:435px;
+    width:29px;
+    height:26px;
+}
+
+#u87_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:757px;
+    top:435px;
+    width:29px;
+    height:26px;
+}
+
+#u89_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u90 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91 {
+    position:absolute;
+    left:610px;
+    top:456px;
+    width:71px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../表情商店_files/u92_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:488px;
+    top:488px;
+    width:60px;
+    height:40px;
+}
+
+#u92_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:46px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:56px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../表情商店_files/u94_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:548px;
+    top:488px;
+    width:60px;
+    height:40px;
+}
+
+#u94_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:46px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:56px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../表情商店_files/u96_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:740px;
+    top:488px;
+    width:68px;
+    height:40px;
+}
+
+#u96_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:74px;
+    height:46px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:64px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../表情商店_files/u94_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:608px;
+    top:488px;
+    width:60px;
+    height:40px;
+}
+
+#u98_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:46px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:56px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../表情商店_files/u94_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:668px;
+    top:488px;
+    width:60px;
+    height:40px;
+}
+
+#u100_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:46px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:56px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_normal {
+    background-image: url('../表情商店_files/u14_normal.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:684px;
+    top:494px;
+    width:28px;
+    height:28px;
+}
+
+#u102_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:28px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104_normal {
+    background-image: url('../表情商店_files/u0_normal.png');
+}
+
+.u104_container {
+    position:absolute;
+    left:868px;
+    top:47px;
+    width:320px;
+    height:481px;
+}
+
+#u104_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:487px;
+}
+
+.u105 {
+    position:absolute;
+    left:2px;
+    top:232px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../表情商店_files/u10_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:868px;
+    top:47px;
+    width:320px;
+    height:42px;
+}
+
+#u106_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:48px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108 {
+    position:absolute;
+    left:991px;
+    top:61px;
+    width:73px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109_normal {
+    background-image: url('../表情商店_files/u109_normal.png');
+}
+
+.u109_container {
+    position:absolute;
+    left:868px;
+    top:133px;
+    width:320px;
+    height:114px;
+}
+
+#u109_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:120px;
+}
+
+.u110 {
+    position:absolute;
+    left:2px;
+    top:49px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111_normal {
+    background-image: url('../表情商店_files/u111_normal.png');
+}
+
+.u111_container {
+    position:absolute;
+    left:868px;
+    top:247px;
+    width:320px;
+    height:57px;
+}
+
+#u111_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:63px;
+}
+
+.u112 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113_normal {
+    background-image: url('../表情商店_files/u113_normal.png');
+}
+
+.u113_container {
+    position:absolute;
+    left:884px;
+    top:257px;
+    width:42px;
+    height:36px;
+}
+
+#u113_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:48px;
+    height:42px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:38px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115 {
+    position:absolute;
+    left:942px;
+    top:258px;
+    width:64px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116 {
+    position:absolute;
+    left:941px;
+    top:274px;
+    width:157px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117_normal {
+    background-image: url('../表情商店_files/u111_normal.png');
+}
+
+.u117_container {
+    position:absolute;
+    left:868px;
+    top:304px;
+    width:320px;
+    height:57px;
+}
+
+#u117_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:63px;
+}
+
+.u118 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119_normal {
+    background-image: url('../表情商店_files/u113_normal.png');
+}
+
+.u119_container {
+    position:absolute;
+    left:884px;
+    top:313px;
+    width:42px;
+    height:36px;
+}
+
+#u119_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:48px;
+    height:42px;
+}
+
+.u120 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:38px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u121 {
+    position:absolute;
+    left:942px;
+    top:314px;
+    width:64px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122 {
+    position:absolute;
+    left:941px;
+    top:330px;
+    width:157px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u123_normal {
+    background-image: url('../表情商店_files/u111_normal.png');
+}
+
+.u123_container {
+    position:absolute;
+    left:868px;
+    top:361px;
+    width:320px;
+    height:57px;
+}
+
+#u123_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:63px;
+}
+
+.u124 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125_normal {
+    background-image: url('../表情商店_files/u113_normal.png');
+}
+
+.u125_container {
+    position:absolute;
+    left:884px;
+    top:371px;
+    width:42px;
+    height:36px;
+}
+
+#u125_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:48px;
+    height:42px;
+}
+
+.u126 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:38px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u127 {
+    position:absolute;
+    left:942px;
+    top:372px;
+    width:64px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128 {
+    position:absolute;
+    left:941px;
+    top:388px;
+    width:157px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u129_normal {
+    background-image: url('../表情商店_files/u111_normal.png');
+}
+
+.u129_container {
+    position:absolute;
+    left:868px;
+    top:417px;
+    width:320px;
+    height:57px;
+}
+
+#u129_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:63px;
+}
+
+.u130 {
+    position:absolute;
+    left:2px;
+    top:20px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u131_normal {
+    background-image: url('../表情商店_files/u113_normal.png');
+}
+
+.u131_container {
+    position:absolute;
+    left:884px;
+    top:427px;
+    width:42px;
+    height:36px;
+}
+
+#u131_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:48px;
+    height:42px;
+}
+
+.u132 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:38px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u133 {
+    position:absolute;
+    left:942px;
+    top:428px;
+    width:64px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134 {
+    position:absolute;
+    left:941px;
+    top:444px;
+    width:157px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u135_normal {
+    background-image: url('../表情商店_files/u0_normal.png');
+}
+
+.u135_container {
+    position:absolute;
+    left:1270px;
+    top:47px;
+    width:320px;
+    height:481px;
+}
+
+#u135_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:487px;
+}
+
+.u136 {
+    position:absolute;
+    left:2px;
+    top:232px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u137_normal {
+    background-image: url('../表情商店_files/u2_normal.png');
+}
+
+.u137_container {
+    position:absolute;
+    left:1270px;
+    top:47px;
+    width:320px;
+    height:40px;
+}
+
+#u137_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:46px;
+}
+
+.u138 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u139 {
+    position:absolute;
+    left:1405px;
+    top:59px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../表情商店_files/u5_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:1283px;
+    top:112px;
+    width:36px;
+    height:36px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:42px;
+    height:42px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:32px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../表情商店_files/u7_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:1329px;
+    top:111px;
+    width:128px;
+    height:37px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:134px;
+    height:43px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:124px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144 {
+    position:absolute;
+    left:1468px;
+    top:123px;
+    width:57px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u145_normal {
+    background-image: url('../表情商店_files/u33_normal.png');
+}
+
+.u145_container {
+    position:absolute;
+    left:1270px;
+    top:297px;
+    width:320px;
+    height:48px;
+}
+
+#u145_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:54px;
+}
+
+.u146 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u147_normal {
+    background-image: url('../表情商店_files/u12_normal.png');
+}
+
+.u147_container {
+    position:absolute;
+    left:1278px;
+    top:51px;
+    width:31px;
+    height:31px;
+}
+
+#u147_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:31px;
+    height:31px;
+}
+
+.u148 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:27px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u149_normal {
+    background-image: url('../表情商店_files/u14_normal.png');
+}
+
+.u149_container {
+    position:absolute;
+    left:1553px;
+    top:305px;
+    width:28px;
+    height:28px;
+}
+
+#u149_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:28px;
+}
+
+.u150 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u151_normal {
+    background-image: url('../表情商店_files/u39_normal.png');
+}
+
+.u151_container {
+    position:absolute;
+    left:1311px;
+    top:305px;
+    width:195px;
+    height:32px;
+}
+
+#u151_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:201px;
+    height:38px;
+}
+
+.u152 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u153_normal {
+    background-image: url('../表情商店_files/u41_normal.png');
+}
+
+.u153_container {
+    position:absolute;
+    left:1272px;
+    top:303px;
+    width:37px;
+    height:37px;
+}
+
+#u153_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:37px;
+    height:37px;
+}
+
+.u154 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:33px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u155_normal {
+    background-image: url('../表情商店_files/u43_normal.png');
+}
+
+.u155_container {
+    position:absolute;
+    left:1516px;
+    top:306px;
+    width:28px;
+    height:28px;
+}
+
+#u155_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:28px;
+}
+
+.u156 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u157_normal {
+    background-image: url('../表情商店_files/u45_normal.png');
+}
+
+.u157_container {
+    position:absolute;
+    left:1270px;
+    top:345px;
+    width:320px;
+    height:183px;
+}
+
+#u157_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:189px;
+}
+
+.u158 {
+    position:absolute;
+    left:2px;
+    top:84px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u159_normal {
+    background-image: url('../表情商店_files/u47_normal.png');
+}
+
+.u159_container {
+    position:absolute;
+    left:1270px;
+    top:488px;
+    width:320px;
+    height:40px;
+}
+
+#u159_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:46px;
+}
+
+.u160 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:1293px;
+    top:357px;
+    width:29px;
+    height:26px;
+}
+
+#u161_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u163_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u163_container {
+    position:absolute;
+    left:1334px;
+    top:357px;
+    width:29px;
+    height:26px;
+}
+
+#u163_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u164 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u165_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u165_container {
+    position:absolute;
+    left:1376px;
+    top:357px;
+    width:29px;
+    height:26px;
+}
+
+#u165_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u166 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u167_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u167_container {
+    position:absolute;
+    left:1417px;
+    top:357px;
+    width:29px;
+    height:26px;
+}
+
+#u167_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u168 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u169_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u169_container {
+    position:absolute;
+    left:1458px;
+    top:357px;
+    width:29px;
+    height:26px;
+}
+
+#u169_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u170 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u171_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u171_container {
+    position:absolute;
+    left:1499px;
+    top:357px;
+    width:29px;
+    height:26px;
+}
+
+#u171_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u172 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u173_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u173_container {
+    position:absolute;
+    left:1539px;
+    top:357px;
+    width:29px;
+    height:26px;
+}
+
+#u173_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u174 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u175_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u175_container {
+    position:absolute;
+    left:1293px;
+    top:396px;
+    width:29px;
+    height:26px;
+}
+
+#u175_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u176 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u177_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u177_container {
+    position:absolute;
+    left:1334px;
+    top:396px;
+    width:29px;
+    height:26px;
+}
+
+#u177_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u178 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u179_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u179_container {
+    position:absolute;
+    left:1376px;
+    top:396px;
+    width:29px;
+    height:26px;
+}
+
+#u179_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u180 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u181_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u181_container {
+    position:absolute;
+    left:1417px;
+    top:396px;
+    width:29px;
+    height:26px;
+}
+
+#u181_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u182 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u183_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u183_container {
+    position:absolute;
+    left:1458px;
+    top:396px;
+    width:29px;
+    height:26px;
+}
+
+#u183_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u184 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u185_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u185_container {
+    position:absolute;
+    left:1499px;
+    top:396px;
+    width:29px;
+    height:26px;
+}
+
+#u185_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u186 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u187_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u187_container {
+    position:absolute;
+    left:1539px;
+    top:396px;
+    width:29px;
+    height:26px;
+}
+
+#u187_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u188 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u189_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u189_container {
+    position:absolute;
+    left:1293px;
+    top:435px;
+    width:29px;
+    height:26px;
+}
+
+#u189_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u190 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u191_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u191_container {
+    position:absolute;
+    left:1334px;
+    top:435px;
+    width:29px;
+    height:26px;
+}
+
+#u191_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u192 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u193_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u193_container {
+    position:absolute;
+    left:1376px;
+    top:435px;
+    width:29px;
+    height:26px;
+}
+
+#u193_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u194 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u195_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u195_container {
+    position:absolute;
+    left:1417px;
+    top:435px;
+    width:29px;
+    height:26px;
+}
+
+#u195_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u196 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u197_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u197_container {
+    position:absolute;
+    left:1458px;
+    top:435px;
+    width:29px;
+    height:26px;
+}
+
+#u197_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u198 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u199_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u199_container {
+    position:absolute;
+    left:1499px;
+    top:435px;
+    width:29px;
+    height:26px;
+}
+
+#u199_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u200 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u201_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u201_container {
+    position:absolute;
+    left:1539px;
+    top:435px;
+    width:29px;
+    height:26px;
+}
+
+#u201_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u202 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u203 {
+    position:absolute;
+    left:1392px;
+    top:456px;
+    width:71px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u204_normal {
+    background-image: url('../表情商店_files/u204_normal.png');
+}
+
+.u204_container {
+    position:absolute;
+    left:1270px;
+    top:488px;
+    width:53px;
+    height:40px;
+}
+
+#u204_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:59px;
+    height:46px;
+}
+
+.u205 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:49px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u206_normal {
+    background-image: url('../表情商店_files/u206_normal.png');
+}
+
+.u206_container {
+    position:absolute;
+    left:1323px;
+    top:488px;
+    width:53px;
+    height:40px;
+}
+
+#u206_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:59px;
+    height:46px;
+}
+
+.u207 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:49px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208_normal {
+    background-image: url('../表情商店_files/u206_normal.png');
+}
+
+.u208_container {
+    position:absolute;
+    left:1376px;
+    top:488px;
+    width:53px;
+    height:40px;
+}
+
+#u208_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:59px;
+    height:46px;
+}
+
+.u209 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:49px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u210_normal {
+    background-image: url('../表情商店_files/u210_normal.png');
+}
+
+.u210_container {
+    position:absolute;
+    left:1429px;
+    top:488px;
+    width:65px;
+    height:40px;
+}
+
+#u210_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:71px;
+    height:46px;
+}
+
+.u211 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u212_normal {
+    background-image: url('../表情商店_files/u212_normal.png');
+}
+
+.u212_container {
+    position:absolute;
+    left:1494px;
+    top:488px;
+    width:56px;
+    height:40px;
+}
+
+#u212_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:62px;
+    height:46px;
+}
+
+.u213 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:52px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u214_normal {
+    background-image: url('../表情商店_files/u14_normal.png');
+}
+
+.u214_container {
+    position:absolute;
+    left:1504px;
+    top:494px;
+    width:28px;
+    height:28px;
+}
+
+#u214_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:28px;
+}
+
+.u215 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u216_normal {
+    background-image: url('../表情商店_files/u96_normal.png');
+}
+
+.u216_container {
+    position:absolute;
+    left:1522px;
+    top:488px;
+    width:68px;
+    height:40px;
+}
+
+#u216_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:74px;
+    height:46px;
+}
+
+.u217 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:64px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u218_normal {
+    background-image: url('../表情商店_files/u0_normal.png');
+}
+
+.u218_container {
+    position:absolute;
+    left:1658px;
+    top:49px;
+    width:320px;
+    height:481px;
+}
+
+#u218_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:487px;
+}
+
+.u219 {
+    position:absolute;
+    left:2px;
+    top:232px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u220_normal {
+    background-image: url('../表情商店_files/u2_normal.png');
+}
+
+.u220_container {
+    position:absolute;
+    left:1658px;
+    top:49px;
+    width:320px;
+    height:40px;
+}
+
+#u220_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:46px;
+}
+
+.u221 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u222 {
+    position:absolute;
+    left:1793px;
+    top:61px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u223_normal {
+    background-image: url('../表情商店_files/u5_normal.png');
+}
+
+.u223_container {
+    position:absolute;
+    left:1671px;
+    top:114px;
+    width:36px;
+    height:36px;
+}
+
+#u223_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:42px;
+    height:42px;
+}
+
+.u224 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:32px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u225_normal {
+    background-image: url('../表情商店_files/u7_normal.png');
+}
+
+.u225_container {
+    position:absolute;
+    left:1717px;
+    top:113px;
+    width:128px;
+    height:37px;
+}
+
+#u225_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:134px;
+    height:43px;
+}
+
+.u226 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:124px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u227 {
+    position:absolute;
+    left:1856px;
+    top:125px;
+    width:57px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u228_normal {
+    background-image: url('../表情商店_files/u33_normal.png');
+}
+
+.u228_container {
+    position:absolute;
+    left:1658px;
+    top:299px;
+    width:320px;
+    height:48px;
+}
+
+#u228_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:54px;
+}
+
+.u229 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u230_normal {
+    background-image: url('../表情商店_files/u12_normal.png');
+}
+
+.u230_container {
+    position:absolute;
+    left:1666px;
+    top:53px;
+    width:31px;
+    height:31px;
+}
+
+#u230_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:31px;
+    height:31px;
+}
+
+.u231 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:27px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u232_normal {
+    background-image: url('../表情商店_files/u14_normal.png');
+}
+
+.u232_container {
+    position:absolute;
+    left:1941px;
+    top:307px;
+    width:28px;
+    height:28px;
+}
+
+#u232_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:28px;
+}
+
+.u233 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u234_normal {
+    background-image: url('../表情商店_files/u39_normal.png');
+}
+
+.u234_container {
+    position:absolute;
+    left:1699px;
+    top:307px;
+    width:195px;
+    height:32px;
+}
+
+#u234_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:201px;
+    height:38px;
+}
+
+.u235 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u236_normal {
+    background-image: url('../表情商店_files/u41_normal.png');
+}
+
+.u236_container {
+    position:absolute;
+    left:1660px;
+    top:305px;
+    width:37px;
+    height:37px;
+}
+
+#u236_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:37px;
+    height:37px;
+}
+
+.u237 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:33px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u238_normal {
+    background-image: url('../表情商店_files/u43_normal.png');
+}
+
+.u238_container {
+    position:absolute;
+    left:1904px;
+    top:308px;
+    width:28px;
+    height:28px;
+}
+
+#u238_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:28px;
+}
+
+.u239 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u240_normal {
+    background-image: url('../表情商店_files/u45_normal.png');
+}
+
+.u240_container {
+    position:absolute;
+    left:1658px;
+    top:347px;
+    width:320px;
+    height:183px;
+}
+
+#u240_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:189px;
+}
+
+.u241 {
+    position:absolute;
+    left:2px;
+    top:84px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u242_normal {
+    background-image: url('../表情商店_files/u47_normal.png');
+}
+
+.u242_container {
+    position:absolute;
+    left:1658px;
+    top:490px;
+    width:320px;
+    height:40px;
+}
+
+#u242_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:46px;
+}
+
+.u243 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u244_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u244_container {
+    position:absolute;
+    left:1681px;
+    top:359px;
+    width:29px;
+    height:26px;
+}
+
+#u244_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u245 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u246_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u246_container {
+    position:absolute;
+    left:1722px;
+    top:359px;
+    width:29px;
+    height:26px;
+}
+
+#u246_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u247 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u248_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u248_container {
+    position:absolute;
+    left:1764px;
+    top:359px;
+    width:29px;
+    height:26px;
+}
+
+#u248_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u249 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u250_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u250_container {
+    position:absolute;
+    left:1805px;
+    top:359px;
+    width:29px;
+    height:26px;
+}
+
+#u250_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u251 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u252_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u252_container {
+    position:absolute;
+    left:1846px;
+    top:359px;
+    width:29px;
+    height:26px;
+}
+
+#u252_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u253 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u254_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u254_container {
+    position:absolute;
+    left:1887px;
+    top:359px;
+    width:29px;
+    height:26px;
+}
+
+#u254_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u255 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u256_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u256_container {
+    position:absolute;
+    left:1927px;
+    top:359px;
+    width:29px;
+    height:26px;
+}
+
+#u256_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u257 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u258_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u258_container {
+    position:absolute;
+    left:1681px;
+    top:398px;
+    width:29px;
+    height:26px;
+}
+
+#u258_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u259 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u260_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u260_container {
+    position:absolute;
+    left:1722px;
+    top:398px;
+    width:29px;
+    height:26px;
+}
+
+#u260_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u261 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u262_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u262_container {
+    position:absolute;
+    left:1764px;
+    top:398px;
+    width:29px;
+    height:26px;
+}
+
+#u262_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u263 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u264_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u264_container {
+    position:absolute;
+    left:1805px;
+    top:398px;
+    width:29px;
+    height:26px;
+}
+
+#u264_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u265 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u266_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u266_container {
+    position:absolute;
+    left:1846px;
+    top:398px;
+    width:29px;
+    height:26px;
+}
+
+#u266_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u267 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u268_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u268_container {
+    position:absolute;
+    left:1887px;
+    top:398px;
+    width:29px;
+    height:26px;
+}
+
+#u268_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u269 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u270_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u270_container {
+    position:absolute;
+    left:1927px;
+    top:398px;
+    width:29px;
+    height:26px;
+}
+
+#u270_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u271 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u272_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u272_container {
+    position:absolute;
+    left:1681px;
+    top:437px;
+    width:29px;
+    height:26px;
+}
+
+#u272_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u273 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u274_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u274_container {
+    position:absolute;
+    left:1722px;
+    top:437px;
+    width:29px;
+    height:26px;
+}
+
+#u274_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u275 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u276_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u276_container {
+    position:absolute;
+    left:1764px;
+    top:437px;
+    width:29px;
+    height:26px;
+}
+
+#u276_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u277 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u278_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u278_container {
+    position:absolute;
+    left:1805px;
+    top:437px;
+    width:29px;
+    height:26px;
+}
+
+#u278_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u279 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u280_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u280_container {
+    position:absolute;
+    left:1846px;
+    top:437px;
+    width:29px;
+    height:26px;
+}
+
+#u280_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u281 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u282_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u282_container {
+    position:absolute;
+    left:1887px;
+    top:437px;
+    width:29px;
+    height:26px;
+}
+
+#u282_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u283 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u284_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u284_container {
+    position:absolute;
+    left:1927px;
+    top:437px;
+    width:29px;
+    height:26px;
+}
+
+#u284_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u285 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u286 {
+    position:absolute;
+    left:1780px;
+    top:458px;
+    width:71px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u287_normal {
+    background-image: url('../表情商店_files/u287_normal.png');
+}
+
+.u287_container {
+    position:absolute;
+    left:1658px;
+    top:490px;
+    width:56px;
+    height:40px;
+}
+
+#u287_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:62px;
+    height:46px;
+}
+
+.u288 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:52px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u289_normal {
+    background-image: url('../表情商店_files/u212_normal.png');
+}
+
+.u289_container {
+    position:absolute;
+    left:1714px;
+    top:490px;
+    width:56px;
+    height:40px;
+}
+
+#u289_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:62px;
+    height:46px;
+}
+
+.u290 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:52px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u291_normal {
+    background-image: url('../表情商店_files/u212_normal.png');
+}
+
+.u291_container {
+    position:absolute;
+    left:1770px;
+    top:490px;
+    width:56px;
+    height:40px;
+}
+
+#u291_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:62px;
+    height:46px;
+}
+
+.u292 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:52px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u293_normal {
+    background-image: url('../表情商店_files/u212_normal.png');
+}
+
+.u293_container {
+    position:absolute;
+    left:1826px;
+    top:490px;
+    width:56px;
+    height:40px;
+}
+
+#u293_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:62px;
+    height:46px;
+}
+
+.u294 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:52px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u295_normal {
+    background-image: url('../表情商店_files/u212_normal.png');
+}
+
+.u295_container {
+    position:absolute;
+    left:1882px;
+    top:490px;
+    width:56px;
+    height:40px;
+}
+
+#u295_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:62px;
+    height:46px;
+}
+
+.u296 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:52px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u297_normal {
+    background-image: url('../表情商店_files/u14_normal.png');
+}
+
+.u297_container {
+    position:absolute;
+    left:1892px;
+    top:496px;
+    width:28px;
+    height:28px;
+}
+
+#u297_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:28px;
+}
+
+.u298 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u299_normal {
+    background-image: url('../表情商店_files/u96_normal.png');
+}
+
+.u299_container {
+    position:absolute;
+    left:1910px;
+    top:490px;
+    width:68px;
+    height:40px;
+}
+
+#u299_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:74px;
+    height:46px;
+}
+
+.u300 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:64px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u301_normal {
+    background-image: url('../表情商店_files/u301_normal.png');
+}
+
+.u301_container {
+    position:absolute;
+    left:375px;
+    top:496px;
+    width:112px;
+    height:31px;
+}
+
+#u301_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:112px;
+    height:31px;
+}
+
+.u302 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:108px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u303_normal {
+    background-image: url('../表情商店_files/u303_normal.png');
+}
+
+.u303_container {
+    position:absolute;
+    left:684px;
+    top:488px;
+    width:180px;
+    height:35px;
+}
+
+#u303_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:180px;
+    height:35px;
+}
+
+.u304 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u305_container {
+    position:absolute;
+    left:1448px;
+    top:495px;
+    width:26px;
+    height:26px;
+}
+
+#u305_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:26px;
+    height:26px;
+}
+
+.u306 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:22px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u307 {
+    position:absolute;
+    left:868px;
+    top:538px;
+    width:184px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u308 {
+    position:absolute;
+    left:488px;
+    top:545px;
+    width:320px;
+    height:39px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u309 {
+    position:absolute;
+    left:1270px;
+    top:538px;
+    width:320px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u310_normal {
+    background-image: url('../表情商店_files/u0_normal.png');
+}
+
+.u310_container {
+    position:absolute;
+    left:2069px;
+    top:57px;
+    width:320px;
+    height:481px;
+}
+
+#u310_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:487px;
+}
+
+.u311 {
+    position:absolute;
+    left:2px;
+    top:232px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u312_normal {
+    background-image: url('../表情商店_files/u2_normal.png');
+}
+
+.u312_container {
+    position:absolute;
+    left:2069px;
+    top:57px;
+    width:320px;
+    height:40px;
+}
+
+#u312_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:46px;
+}
+
+.u313 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u314 {
+    position:absolute;
+    left:2204px;
+    top:69px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u315_normal {
+    background-image: url('../表情商店_files/u5_normal.png');
+}
+
+.u315_container {
+    position:absolute;
+    left:2082px;
+    top:122px;
+    width:36px;
+    height:36px;
+}
+
+#u315_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:42px;
+    height:42px;
+}
+
+.u316 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:32px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u317_normal {
+    background-image: url('../表情商店_files/u7_normal.png');
+}
+
+.u317_container {
+    position:absolute;
+    left:2128px;
+    top:121px;
+    width:128px;
+    height:37px;
+}
+
+#u317_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:134px;
+    height:43px;
+}
+
+.u318 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:124px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u319 {
+    position:absolute;
+    left:2267px;
+    top:133px;
+    width:57px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u320_normal {
+    background-image: url('../表情商店_files/u33_normal.png');
+}
+
+.u320_container {
+    position:absolute;
+    left:2069px;
+    top:307px;
+    width:320px;
+    height:48px;
+}
+
+#u320_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:54px;
+}
+
+.u321 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u322_normal {
+    background-image: url('../表情商店_files/u12_normal.png');
+}
+
+.u322_container {
+    position:absolute;
+    left:2077px;
+    top:61px;
+    width:31px;
+    height:31px;
+}
+
+#u322_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:31px;
+    height:31px;
+}
+
+.u323 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:27px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u324_normal {
+    background-image: url('../表情商店_files/u14_normal.png');
+}
+
+.u324_container {
+    position:absolute;
+    left:2352px;
+    top:315px;
+    width:28px;
+    height:28px;
+}
+
+#u324_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:28px;
+}
+
+.u325 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u326_normal {
+    background-image: url('../表情商店_files/u39_normal.png');
+}
+
+.u326_container {
+    position:absolute;
+    left:2110px;
+    top:315px;
+    width:195px;
+    height:32px;
+}
+
+#u326_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:201px;
+    height:38px;
+}
+
+.u327 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u328_normal {
+    background-image: url('../表情商店_files/u41_normal.png');
+}
+
+.u328_container {
+    position:absolute;
+    left:2071px;
+    top:313px;
+    width:37px;
+    height:37px;
+}
+
+#u328_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:37px;
+    height:37px;
+}
+
+.u329 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:33px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u330_normal {
+    background-image: url('../表情商店_files/u43_normal.png');
+}
+
+.u330_container {
+    position:absolute;
+    left:2315px;
+    top:316px;
+    width:28px;
+    height:28px;
+}
+
+#u330_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:28px;
+}
+
+.u331 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u332_normal {
+    background-image: url('../表情商店_files/u45_normal.png');
+}
+
+.u332_container {
+    position:absolute;
+    left:2069px;
+    top:355px;
+    width:320px;
+    height:183px;
+}
+
+#u332_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:189px;
+}
+
+.u333 {
+    position:absolute;
+    left:2px;
+    top:84px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u334_normal {
+    background-image: url('../表情商店_files/u47_normal.png');
+}
+
+.u334_container {
+    position:absolute;
+    left:2069px;
+    top:498px;
+    width:320px;
+    height:40px;
+}
+
+#u334_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:46px;
+}
+
+.u335 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u336_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u336_container {
+    position:absolute;
+    left:2092px;
+    top:367px;
+    width:29px;
+    height:26px;
+}
+
+#u336_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u337 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u338_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u338_container {
+    position:absolute;
+    left:2133px;
+    top:367px;
+    width:29px;
+    height:26px;
+}
+
+#u338_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u339 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u340_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u340_container {
+    position:absolute;
+    left:2175px;
+    top:367px;
+    width:29px;
+    height:26px;
+}
+
+#u340_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u341 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u342_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u342_container {
+    position:absolute;
+    left:2216px;
+    top:367px;
+    width:29px;
+    height:26px;
+}
+
+#u342_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u343 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u344_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u344_container {
+    position:absolute;
+    left:2257px;
+    top:367px;
+    width:29px;
+    height:26px;
+}
+
+#u344_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u345 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u346_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u346_container {
+    position:absolute;
+    left:2298px;
+    top:367px;
+    width:29px;
+    height:26px;
+}
+
+#u346_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u347 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u348_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u348_container {
+    position:absolute;
+    left:2338px;
+    top:367px;
+    width:29px;
+    height:26px;
+}
+
+#u348_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u349 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u350_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u350_container {
+    position:absolute;
+    left:2092px;
+    top:406px;
+    width:29px;
+    height:26px;
+}
+
+#u350_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u351 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u352_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u352_container {
+    position:absolute;
+    left:2133px;
+    top:406px;
+    width:29px;
+    height:26px;
+}
+
+#u352_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u353 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u354_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u354_container {
+    position:absolute;
+    left:2175px;
+    top:406px;
+    width:29px;
+    height:26px;
+}
+
+#u354_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u355 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u356_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u356_container {
+    position:absolute;
+    left:2216px;
+    top:406px;
+    width:29px;
+    height:26px;
+}
+
+#u356_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u357 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u358_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u358_container {
+    position:absolute;
+    left:2257px;
+    top:406px;
+    width:29px;
+    height:26px;
+}
+
+#u358_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u359 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u360_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u360_container {
+    position:absolute;
+    left:2298px;
+    top:406px;
+    width:29px;
+    height:26px;
+}
+
+#u360_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u361 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u362_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u362_container {
+    position:absolute;
+    left:2338px;
+    top:406px;
+    width:29px;
+    height:26px;
+}
+
+#u362_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u363 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u364_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u364_container {
+    position:absolute;
+    left:2092px;
+    top:445px;
+    width:29px;
+    height:26px;
+}
+
+#u364_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u365 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u366_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u366_container {
+    position:absolute;
+    left:2133px;
+    top:445px;
+    width:29px;
+    height:26px;
+}
+
+#u366_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u367 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u368_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u368_container {
+    position:absolute;
+    left:2175px;
+    top:445px;
+    width:29px;
+    height:26px;
+}
+
+#u368_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u369 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u370_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u370_container {
+    position:absolute;
+    left:2216px;
+    top:445px;
+    width:29px;
+    height:26px;
+}
+
+#u370_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u371 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u372_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u372_container {
+    position:absolute;
+    left:2257px;
+    top:445px;
+    width:29px;
+    height:26px;
+}
+
+#u372_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u373 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u374_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u374_container {
+    position:absolute;
+    left:2298px;
+    top:445px;
+    width:29px;
+    height:26px;
+}
+
+#u374_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u375 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u376_normal {
+    background-image: url('../表情商店_files/u49_normal.png');
+}
+
+.u376_container {
+    position:absolute;
+    left:2338px;
+    top:445px;
+    width:29px;
+    height:26px;
+}
+
+#u376_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:32px;
+}
+
+.u377 {
+    position:absolute;
+    left:2px;
+    top:5px;
+    width:25px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u378 {
+    position:absolute;
+    left:2191px;
+    top:466px;
+    width:71px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u379_normal {
+    background-image: url('../表情商店_files/u212_normal.png');
+}
+
+.u379_container {
+    position:absolute;
+    left:2069px;
+    top:498px;
+    width:56px;
+    height:40px;
+}
+
+#u379_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:62px;
+    height:46px;
+}
+
+.u380 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:52px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u381_normal {
+    background-image: url('../表情商店_files/u212_normal.png');
+}
+
+.u381_container {
+    position:absolute;
+    left:2125px;
+    top:498px;
+    width:56px;
+    height:40px;
+}
+
+#u381_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:62px;
+    height:46px;
+}
+
+.u382 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:52px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u383_normal {
+    background-image: url('../表情商店_files/u212_normal.png');
+}
+
+.u383_container {
+    position:absolute;
+    left:2181px;
+    top:498px;
+    width:56px;
+    height:40px;
+}
+
+#u383_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:62px;
+    height:46px;
+}
+
+.u384 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:52px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u385_normal {
+    background-image: url('../表情商店_files/u287_normal.png');
+}
+
+.u385_container {
+    position:absolute;
+    left:2237px;
+    top:498px;
+    width:56px;
+    height:40px;
+}
+
+#u385_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:62px;
+    height:46px;
+}
+
+.u386 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:52px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u387_normal {
+    background-image: url('../表情商店_files/u212_normal.png');
+}
+
+.u387_container {
+    position:absolute;
+    left:2293px;
+    top:498px;
+    width:56px;
+    height:40px;
+}
+
+#u387_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:62px;
+    height:46px;
+}
+
+.u388 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:52px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u389_normal {
+    background-image: url('../表情商店_files/u14_normal.png');
+}
+
+.u389_container {
+    position:absolute;
+    left:2303px;
+    top:504px;
+    width:28px;
+    height:28px;
+}
+
+#u389_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:28px;
+    height:28px;
+}
+
+.u390 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u391_normal {
+    background-image: url('../表情商店_files/u96_normal.png');
+}
+
+.u391_container {
+    position:absolute;
+    left:2321px;
+    top:498px;
+    width:68px;
+    height:40px;
+}
+
+#u391_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:74px;
+    height:46px;
+}
+
+.u392 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:64px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u393_normal {
+    background-image: url('../表情商店_files/u393_normal.png');
+}
+
+.u393_container {
+    position:absolute;
+    left:2182px;
+    top:261px;
+    width:96px;
+    height:96px;
+}
+
+#u393_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:102px;
+}
+
+.u394 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:92px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u395_normal {
+    background-image: url('../表情商店_files/u395_normal.png');
+}
+
+.u395_container {
+    position:absolute;
+    left:2221px;
+    top:357px;
+    width:21px;
+    height:9px;
+}
+
+#u395_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:27px;
+    height:15px;
+}
+
+.u396 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:17px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u397_normal {
+    background-image: url('../表情商店_files/u397_normal.png');
+}
+
+.u397_container {
+    position:absolute;
+    left:2214px;
+    top:367px;
+    width:31px;
+    height:29px;
+}
+
+#u397_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:37px;
+    height:35px;
+}
+
+.u398 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:27px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u399 {
+    position:absolute;
+    left:2069px;
+    top:557px;
+    width:291px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u400_normal {
+    background-image: url('../表情商店_files/u400_normal.png');
+}
+
+.u400_container {
+    position:absolute;
+    left:868px;
+    top:89px;
+    width:107px;
+    height:44px;
+}
+
+#u400_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:50px;
+}
+
+.u401 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:103px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u402_normal {
+    background-image: url('../表情商店_files/u12_normal.png');
+}
+
+.u402_container {
+    position:absolute;
+    left:873px;
+    top:52px;
+    width:31px;
+    height:31px;
+}
+
+#u402_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:31px;
+    height:31px;
+}
+
+.u403 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:27px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u404_normal {
+    background-image: url('../表情商店_files/u400_normal.png');
+}
+
+.u404_container {
+    position:absolute;
+    left:975px;
+    top:89px;
+    width:107px;
+    height:44px;
+}
+
+#u404_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:50px;
+}
+
+.u405 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:103px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u406_normal {
+    background-image: url('../表情商店_files/u400_normal.png');
+}
+
+.u406_container {
+    position:absolute;
+    left:1081px;
+    top:89px;
+    width:107px;
+    height:44px;
+}
+
+#u406_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:50px;
+}
+
+.u407 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:103px;
+    height:13px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
